@@ -10,7 +10,7 @@ The system leverages Ada’s concurrency features (tasks and protected objects) 
 
 ## Features
 
-### ✈️ Multi-Threaded Architecture
+### Multi-Threaded Architecture
 
 * Independent Ada tasks simulate:
 
@@ -21,7 +21,7 @@ The system leverages Ada’s concurrency features (tasks and protected objects) 
   * Logging subsystems
 * Tasks run concurrently and interact through a synchronized shared state.
 
-### 🛡️ Fault-Tolerant Sensor Fusion
+### Fault-Tolerant Sensor Fusion
 
 * Implements a voting system across 5 simulated sensors
 * Detects and rejects outliers using threshold-based logic
